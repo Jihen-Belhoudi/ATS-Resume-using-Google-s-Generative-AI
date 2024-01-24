@@ -1,11 +1,11 @@
-##Overview
+Overview
 ATS Resume Expert is a powerful Streamlit application designed to leverage the capabilities of Google's Generative AI. 
 It offers comprehensive insights and evaluations for resumes within the realm of Applicant Tracking Systems (ATS). 
 
 The application goes beyond simple resume parsing by providing advanced functionalities:
-#Alignment Analysis: Evaluate how well a resume aligns with a given job description.
-#Skill Improvement Guidance: Receive personalized recommendations for skill development based on missing technical skills.
-#Percentage Match Calculation: Utilize ATS scanning to determine a percentage match with the job description.
+Alignment Analysis: Evaluate how well a resume aligns with a given job description.
+Skill Improvement Guidance: Receive personalized recommendations for skill development based on missing technical skills.
+Percentage Match Calculation: Utilize ATS scanning to determine a percentage match with the job description.
 
 Usage
 Access the application through the provided Streamlit URL.
