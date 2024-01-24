@@ -7,8 +7,7 @@ import json
 
 load_dotenv() ## load all our environment variables
 
-os.getenv("GOOGLE_API_KEY")
-genai.configure(api_key="AIzaSyBu2l9cKHUuKvpdtE6SxRiMsI0nuvAEr7E")
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 def get_gemini_response(input):
     model=genai.GenerativeModel('gemini-pro')
